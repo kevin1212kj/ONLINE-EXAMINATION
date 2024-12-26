@@ -577,21 +577,15 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <!-- Container (Portfolio Section) -->
 <div id="developers" class="container-fluid text-center bg-grey">
   <h2>Developers</h2><br>
-  <h4>Who are we</h4>
+  <h4>About me</h4>
   <div class="row text-center slideanim">
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="photo.jpg" alt="PRASANTH" width="400" height="300">
-        <p><strong>PRASANTH SAGAR KOTTAKOTA</strong></p>
-        <p>Nitk 3rd year BTECH</p>
+        <img src="photo.jpg" alt="Web Developed by" width="400" height="300">
+        <p><strong>KIRVIN JONES</strong></p>
+        <p>Nitk 3rd year BCA</p>
       </div>
     </div>
-    <div class="col-sm-4">
-      <div class="thumbnail">
-        <img src="profilepic.jpg" alt="VIJAY" width="400" height="300">
-        <p><strong>VIJAY KUMAR</strong></p>
-        <p>Nitk 3rd year BTECH</p>
-      </div>
     </div>
     
   </div><br>
@@ -653,9 +647,9 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
   <div class="row">
     <div class="col-sm-5">
       <p>Contact us and we'll get back to you within 24 hours.</p>
-      <p><span class="glyphicon glyphicon-map-marker"></span> Karnataka, INDIA</p>
-      <p><span class="glyphicon glyphicon-phone"></span> +91 9491849828 </p>
-      <p><span class="glyphicon glyphicon-envelope"></span> kpsagar1999@gmail.com</p>
+      <p><span class="glyphicon glyphicon-map-marker"></span> Tamilnadu, INDIA</p>
+      <p><span class="glyphicon glyphicon-phone"></span> +91 949184982 </p>
+      <p><span class="glyphicon glyphicon-envelope"></span> onlineexam@gmail.com</p>
     </div>
     <div class="col-sm-7 slideanim">
 
